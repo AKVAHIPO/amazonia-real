@@ -66,6 +66,37 @@ window.AMAZONIA_DATA = {
             { tier:"Nature",  titulo:"Gatti et al. 2021 — Amazônia oriental como fonte de carbono", url:"https://www.nature.com/articles/s41586-021-03629-6" },
             { tier:"Biogeosciences", titulo:"Bourgoin et al. 2025 — Pior degradação por fogo em 2 décadas (2024)", url:"https://bg.copernicus.org/articles/22/5247/2025/" }
           ]
+        },
+        {
+          n: "A4",
+          quote: "Conforme as mudanças climáticas e de uso da terra se intensificam na Amazônia, distúrbios compostos podem empurrar as florestas do sudeste amazônico para um colapso em larga escala, incluindo transições para estados alternativos.",
+          origem: "Maracahipes 2026 PNAS · Significance · p.1",
+          analise: "A primeira frase do Significance do paper já contradiz a manchete do Estadão. Os autores afirmam EXPLICITAMENTE que existe risco de colapso em larga escala com transições para estados alternativos. O Estadão suprimiu esse trecho.",
+          conclusao: "A leitura honesta começa pela primeira frase do paper: é alerta, não alívio.",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Significance statement (PDF p.1)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" }
+          ]
+        },
+        {
+          n: "A5",
+          quote: "Consequentemente, encontramos pouca evidência de que florestas degradadas pelo fogo transicionem para uma savana persistente, embora incêndios recorrentes ou futuras mudanças climáticas possam impulsionar uma degradação de longa duração ou savanas de origem humana.",
+          origem: "Maracahipes 2026 PNAS · Abstract · p.1",
+          analise: "Esta é a frase QUE O ESTADÃO MUTILOU. A oração principal traz a ressalva e o Estadão divulgou apenas a parte antes da vírgula. A conjunção 'embora' é o coração científico do paper: a 'boa notícia' é condicional a um cenário (sem fogo) que não se verifica no campo (Bourgoin 2025: +400% degradação por fogo em 2024).",
+          conclusao: "A manchete do Estadão é tecnicamente uma supressão de cláusula condicional. O paper diz 'savanização humana ainda é possível se o fogo continuar' — exatamente o que o Estadão omitiu.",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Abstract (PDF p.1)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" },
+            { tier:"Biogeosciences", titulo:"Bourgoin et al. 2025 — +400% degradação por fogo em 2024", url:"https://bg.copernicus.org/articles/22/5247/2025/" }
+          ]
+        },
+        {
+          n: "A6",
+          quote: "Se a queima experimental tivesse continuado e as fontes de ignição fossem recorrentes, as gramíneas provavelmente teriam se expandido pela área experimental, levando a uma potencial transição de longo prazo da floresta para uma savana de origem humana.",
+          origem: "Maracahipes 2026 PNAS · Discussion · p.6",
+          analise: "Traduzindo: o experimento provou que SIM, a savanização humana é o desfecho plausível na ausência de manejo. Os autores são explícitos.",
+          conclusao: "O paper documenta a savanização como rota viva do bioma, contradizendo a leitura editorial brasileira.",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Discussion 'Generalization or Savannization?' (PDF p.6)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" }
+          ]
         }
       ]
     },
@@ -106,6 +137,38 @@ window.AMAZONIA_DATA = {
           fontes: [
             { tier:"Science", titulo:"Lapola et al. 2023 — Drivers and impacts of Amazon forest degradation", url:"https://www.science.org/doi/10.1126/science.abp8622" },
             { tier:"Phys.org", titulo:"Síntese do paper — 'Recovery masks diversity loss'", url:"https://phys.org/news/2026-04-amazon-recovery-masks-diversity-loss.html" }
+          ]
+        },
+        {
+          n: "B4",
+          quote: "De 2004 a 2011, a riqueza de espécies na borda da floresta caiu 20,3% em B1yr (de 64 para 51 espécies) e 46,2% em B3yr (de 65 para 35 espécies)... ainda era 31,3% e 50,8% menor em B1yr e B3yr, respectivamente, em comparação com os valores pré-incêndio em 2024.",
+          origem: "Maracahipes 2026 PNAS · Results · p.3",
+          analise: "Quatorze anos depois do último fogo, a borda B3yr (queimada a cada 3 anos) ainda tinha A METADE das espécies originais. Esse número não aparece em nenhuma matéria. É o oposto da 'recuperação' da manchete.",
+          conclusao: "A 'recuperação' da borda é parcial e lenta: 31% (B1yr) a 51% (B3yr) abaixo do baseline 14 anos pós-fogo. Em ritmo demográfico de árvores, isso é geração inteira.",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Species Diversity and Richness (PDF p.3)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" },
+            { tier:"Rainfor", titulo:"Aguirre-Gutiérrez 2025 — Forests change at only 8% of needed rate", url:"https://rainfor.org/wp-content/uploads/sites/129/2025/03/Aguirre-Gutierrez-et-al-2025-Tropical-forests-in-the-Americas-are-changing-too-slowly-to-track-climate-change.pdf" }
+          ]
+        },
+        {
+          n: "B5",
+          quote: "A proporção de espécies pioneiras mais que triplicou nas parcelas queimadas (de 17,1 para 59% em B1yr; e de 21,6 para 72,6% em B3yr)... Nas bordas da floresta, a proporção de espécies pioneiras alcançou 80,3% e 93,3% em B1yr e B3yr, respectivamente.",
+          origem: "Maracahipes 2026 PNAS · Results · p.4",
+          analise: "Pioneiras = vida curta, madeira leve, fixação rápida de C mas perdas rápidas. A borda B3yr é virtualmente um viveiro de pioneiras (93,3%) — não é mais floresta madura, é capoeira-em-pé. Berenguer 2018: degradação reduz estoque de C em 40-60%.",
+          conclusao: "Onde antes havia 80% de espécies de floresta madura, agora há 93% de pioneiras. Não é Amazônia recuperada — é capoeira composicional.",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Species Composition (PDF p.4)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" },
+            { tier:"PNAS", titulo:"Berenguer 2018 — Carbon loss in degraded forests", url:"https://www.pnas.org/doi/10.1073/pnas.1804559115" }
+          ]
+        },
+        {
+          n: "B6",
+          quote: "Em 2025, a cobertura de gramíneas havia diminuído para 12% nas bordas das parcelas queimadas, embora a maior parte disso fosse devido à presença de A. longifolia (nativa do Cerrado) no sub-bosque florestal. Em contraste, a cobertura de gramíneas nas bordas controle permaneceu consistentemente abaixo de 1%.",
+          origem: "Maracahipes 2026 PNAS · Results · p.4",
+          analise: "12% de cobertura por gramíneas (incluindo nativa do Cerrado Aristida longifolia) NÃO é 'ausência de savanização'. É um sub-bosque savânico coexistindo com dossel arbóreo. Andropogon gayanus (capim africano de pasto) recuou, mas A. longifolia (Cerrado) ficou.",
+          conclusao: "A 'vitória sobre o capim' é parcial: gramínea nativa do Cerrado se estabeleceu no sub-bosque. Borda funcional já é meio Cerrado por baixo.",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Forest-Grass Competition (PDF p.4-5)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" }
           ]
         }
       ]
@@ -148,6 +211,27 @@ window.AMAZONIA_DATA = {
             { tier:"Glob Change Biol", titulo:"Esquivel-Muelbert et al. 2019 — Compositional response", url:"https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14413" },
             { tier:"PNAS", titulo:"Boulton et al. 2022/2024 — Critical slowing down of the Amazon", url:"https://www.pnas.org/doi/10.1073/pnas.2316924121" }
           ]
+        },
+        {
+          n: "C4",
+          quote: "Durante a recuperação pós-fogo, espécies resistentes a embolias (valores de P50 mais negativos) tornaram-se mais comuns, mas as comunidades exibiram margens de segurança hidráulica menores (vulnerabilidade aumentada à seca).",
+          origem: "Maracahipes 2026 PNAS · Abstract · p.1",
+          analise: "Tradução técnica: a floresta que voltou tem árvores que aguentam mais sede individualmente, mas o conjunto ficou MAIS vulnerável a seca. HSM50 ~3.2 (Control) vs. ~2.5 (B3yr). É um paradoxo crítico: resistência individual aumentou, segurança coletiva diminuiu.",
+          conclusao: "A floresta 'recuperada' é mais frágil ao próximo super El Niño que a floresta original. Resiliência aparente + fragilidade real.",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Drought-Resistant Species Performance (PDF p.4-5)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" },
+            { tier:"AGU Adv", titulo:"Liu et al. 2026 — Drought-Heat threat to Amazon C sink", url:"https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002309" }
+          ]
+        },
+        {
+          n: "C5",
+          quote: "Apesar do aumento na resistência à embolia, a vulnerabilidade à seca em nível comunitário permaneceu similar à Controle, sugerindo maior exposição a condições de seca, potencialmente devido a acesso reduzido a água profunda do solo e/ou maior déficit de pressão de vapor (VPD) nas parcelas queimadas.",
+          origem: "Maracahipes 2026 PNAS · Discussion · p.7",
+          analise: "O paper explicita o mecanismo: borda queimada = solo mais quente + VPD maior + raízes superficiais (pioneiras) = exposição maior à seca. Isso não aparece no satélite. Estação seca alongando 1 semana/década (SPA AR2025) vai catalisar este efeito.",
+          conclusao: "A floresta de borda parece igual no satélite, mas opera com microclima e raízes piores. Funcionalmente está pior.",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Functional Traits and Future Susceptibility (PDF p.7)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" }
+          ]
         }
       ]
     },
@@ -188,6 +272,27 @@ window.AMAZONIA_DATA = {
           fontes: [
             { tier:"Sci Advances", titulo:"Bello et al. 2015 — Defaunation reduces carbon storage", url:"https://www.science.org/doi/10.1126/sciadv.1501105" },
             { tier:"PNAS", titulo:"Peres et al. 2016 — Dispersal limitation", url:"https://www.pnas.org/doi/10.1073/pnas.1516525113" }
+          ]
+        },
+        {
+          n: "D4",
+          quote: "Esses impactos levam à homogeneização de comunidades arbóreas — um processo impulsionado pelo aumento de espécies generalistas (i.e., um 'processo de generalização') — mas também fornecendo algumas evidências de forte resiliência da floresta quando o distúrbio é removido do ambiente.",
+          origem: "Maracahipes 2026 PNAS · Conclusions · p.8",
+          analise: "Os autores BATIZAM um conceito novo: 'generalization process' — processo de generalização. É o oposto da savanização caricata. É a perda de identidade biótica regional. O subtítulo da Discussion é literalmente 'Generalization or Savannization?' — o paper inteiro é sobre essa dicotomia.",
+          conclusao: "'Processo de generalização' é o novo conceito que precisa entrar no vocabulário público brasileiro. Não é savana, não é floresta original — é uma floresta que perde a alma.",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Conclusions (PDF p.8)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" }
+          ]
+        },
+        {
+          n: "D5",
+          quote: "Apesar da recuperação pós-fogo de alguns serviços ecossistêmicos (carbono e água) com o crescimento de novos recrutas, a diversidade não atingiu os níveis pré-distúrbio e a composição de espécies permaneceu diferente, sugerindo que as áreas degradadas no sudeste da Amazônia são resilientes, mas provavelmente exigirão MAIS DE 14 ANOS para recuperar todas as propriedades florestais.",
+          origem: "Maracahipes 2026 PNAS · Conclusions · p.8",
+          analise: "'Mais de 14 anos' é leitura conservadora (limite do experimento). Para árvores de madeira densa de centenas de anos (Bertholletia, Cariniana), o tempo real é séculos. O Acordo de Paris e as metas COP30 operam em janelas de 5-30 anos — incompatíveis. Hubau 2020 (Nature) mostra sumidouro em colapso JÁ.",
+          conclusao: "'14 anos' é piso, não teto. O paper pede décadas a séculos para retorno funcional pleno — escala incompatível com política climática vigente.",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Conclusions 14-year limit (PDF p.8)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" },
+            { tier:"Nature", titulo:"Hubau et al. 2020 — Amazon C sink declining", url:"https://www.nature.com/articles/s41586-020-2035-0" }
           ]
         }
       ]
@@ -230,6 +335,27 @@ window.AMAZONIA_DATA = {
             { tier:"AMS", titulo:"Nobre & Sellers 1991 — Amazonian Climate (clássico)", url:"https://journals.ametsoc.org/view/journals/clim/4/10/1520-0442_1991_004_0957_arpacc_2_0_co_2.xml" },
             { tier:"Project Syndicate", titulo:"Nobre & Peña-Claros — Amazon's future (2025)", url:"https://www.project-syndicate.org/commentary/protecting-and-restoring-the-amazon-must-be-top-priority-at-cop30-by-carlos-nobre-and-marielos-pena-claros-2025-02" }
           ]
+        },
+        {
+          n: "E4",
+          quote: "Em conjunto, esses resultados mostram que mesmo florestas altamente degradadas e invadidas por gramíneas podem se recuperar na ausência de novos distúrbios, mas as comunidades que se reorganizam permanecem vulneráveis a novos incêndios, secas ou ventanias.",
+          origem: "Maracahipes 2026 PNAS · Abstract · p.1",
+          analise: "Esta é a frase-resumo. Decodificada: (1) recuperação existe, (2) condicional a 'ausência de novos distúrbios', (3) o que volta é mais frágil para os MESMOS distúrbios. É o ciclo de degradação progressiva. Marengo 2024 (AJCC): seca 2023-24 quebrou recordes. Cada ciclo deixa floresta mais fraca.",
+          conclusao: "A 'recuperação' é pírrica: o que volta é mais vulnerável ao próximo golpe. É fadiga ecossistêmica progressiva.",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Abstract (PDF p.1)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" },
+            { tier:"AJCC", titulo:"Marengo 2024 — Drought of Amazonia 2023-2024", url:"https://doi.org/10.4236/ajcc.2024.133026" }
+          ]
+        },
+        {
+          n: "E5",
+          quote: "Padrões semelhantes podem estar ocorrendo no Território Indígena do Xingu, onde práticas de manejo do fogo e a abundância de propágulos de gramíneas têm promovido dinâmicas de feedback semelhantes.",
+          origem: "Maracahipes 2026 PNAS · Discussion · p.6",
+          analise: "O paper EXPLICITAMENTE estende a análise para o Xingu — território indígena demarcado, sem agronegócio dentro, mas vulnerável pela vizinhança e pelo fogo. Isso desmonta a tese de que 'TIs estão protegidas' e que 'agronegócio sustentável' resolve. O fogo entra independentemente do regime fundiário.",
+          conclusao: "Mesmo TIs como Xingu mostram dinâmica fogo-gramínea-fogo. Solução é manejo regional integrado, não apenas demarcação ou cadeias agro privadas.",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Discussion · Xingu reference (PDF p.6)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" }
+          ]
         }
       ]
     },
@@ -271,6 +397,17 @@ window.AMAZONIA_DATA = {
           fontes: [
             { tier:"Min. Defesa", titulo:"Forças Armadas intensificam Operação Ágata Amazônia 2025", url:"https://agenciagov.ebc.com.br/noticias/202505/operacao-e-desencadeada-para-a-defesa-da-amazonia" },
             { tier:"FGV CPDOC", titulo:"Lourenção — SIVAM e segurança regional", url:"https://cpdoc.fgv.br/sites/default/files/militares-amazonia/txt_Lourencao.pdf" }
+          ]
+        },
+        {
+          n: "F4",
+          quote: "Previmos que os impactos de múltiplos distúrbios serão mais pronunciados nas bordas da floresta, onde a mortalidade de árvores grandes por fogo, seca e ventanias tem sido consistentemente maior do que nos interiores da floresta.",
+          origem: "Maracahipes 2026 PNAS · Methods · p.2",
+          analise: "Árvores grandes são justamente as que: (i) bombeiam mais água para os rios voadores (evapotranspiração proporcional ao tamanho), (ii) oferecem maior cobertura aérea para tropas em selva, (iii) abrigam fauna dispersora (jaguar, harpia, primatas grandes). Sua mortalidade preferencial em bordas é perda DUPLA: clima global (rios voadores) e operacional (Forças Armadas).",
+          conclusao: "A árvore grande é o 'core asset' da Amazônia — bomba de água + cobertura tática. Sua morte preferencial em bordas tem consequência climática (rios voadores) E geoestratégica (operações).",
+          fontes: [
+            { tier:"PNAS", titulo:"Maracahipes 2026 — Methods (PDF p.2)", url:"https://www.pnas.org/doi/abs/10.1073/pnas.2532833123" },
+            { tier:"Bulletin", titulo:"Carlos Nobre 2025 — Rios voadores 20 Gt/dia", url:"https://thebulletin.org/premium/2025-03/carlos-nobre-on-tipping-points-in-the-amazon-rainforest/" }
           ]
         }
       ]
