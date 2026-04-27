@@ -1,0 +1,35 @@
+User-agent: *
+Allow: /
+Allow: /images/
+Disallow: /api/
+
+# Crawlers de IA — permitidos para indexação ética e citação acadêmica
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Crawlers agressivos — bloqueados (sobrecarregam servidor)
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+Sitemap: https://brasildesenhado.org.br:8479/sitemap.xml

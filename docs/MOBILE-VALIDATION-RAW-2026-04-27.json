@@ -1,0 +1,142 @@
+[
+  {
+    "name": "iphone-12",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "errors": [],
+    "warnings": [],
+    "checks": {
+      "http_status": 200,
+      "h1_visible": true,
+      "h1_text": "Amazônia Real",
+      "badges": [
+        "Fonte: PNAS",
+        "DOI 10.1073/pnas.2532833123",
+        "Cautela editorial",
+        "19 papers de alto nível",
+        "35 conceitos",
+        "6 grupos temáticos"
+      ],
+      "has_19_papers": true,
+      "has_35_conceitos": true,
+      "has_point_4": true,
+      "has_point_5": true,
+      "has_point_6": true,
+      "has_f_arvores": true,
+      "has_g_fluvial": true,
+      "footer_19_pubs": true,
+      "chart_timeline_attached": true,
+      "chart_tier_attached": true,
+      "horizontal_overflow": false,
+      "concept_cards": 35,
+      "expected_35": true
+    }
+  },
+  {
+    "name": "iphone-se",
+    "viewport": {
+      "width": 375,
+      "height": 667
+    },
+    "errors": [],
+    "warnings": [],
+    "checks": {
+      "http_status": 200,
+      "h1_visible": true,
+      "h1_text": "Amazônia Real",
+      "badges": [
+        "Fonte: PNAS",
+        "DOI 10.1073/pnas.2532833123",
+        "Cautela editorial",
+        "19 papers de alto nível",
+        "35 conceitos",
+        "6 grupos temáticos"
+      ],
+      "has_19_papers": true,
+      "has_35_conceitos": true,
+      "has_point_4": true,
+      "has_point_5": true,
+      "has_point_6": true,
+      "has_f_arvores": true,
+      "has_g_fluvial": true,
+      "footer_19_pubs": true,
+      "chart_timeline_attached": true,
+      "chart_tier_attached": true,
+      "horizontal_overflow": false,
+      "concept_cards": 35,
+      "expected_35": true
+    }
+  },
+  {
+    "name": "pixel-5",
+    "viewport": {
+      "width": 393,
+      "height": 851
+    },
+    "errors": [],
+    "warnings": [],
+    "checks": {
+      "http_status": 200,
+      "h1_visible": true,
+      "h1_text": "Amazônia Real",
+      "badges": [
+        "Fonte: PNAS",
+        "DOI 10.1073/pnas.2532833123",
+        "Cautela editorial",
+        "19 papers de alto nível",
+        "35 conceitos",
+        "6 grupos temáticos"
+      ],
+      "has_19_papers": true,
+      "has_35_conceitos": true,
+      "has_point_4": true,
+      "has_point_5": true,
+      "has_point_6": true,
+      "has_f_arvores": true,
+      "has_g_fluvial": true,
+      "footer_19_pubs": true,
+      "chart_timeline_attached": true,
+      "chart_tier_attached": true,
+      "horizontal_overflow": false,
+      "concept_cards": 35,
+      "expected_35": true
+    }
+  },
+  {
+    "name": "ipad-air",
+    "viewport": {
+      "width": 820,
+      "height": 1180
+    },
+    "errors": [],
+    "warnings": [],
+    "checks": {
+      "http_status": 200,
+      "h1_visible": true,
+      "h1_text": "Amazônia Real",
+      "badges": [
+        "Fonte: PNAS",
+        "DOI 10.1073/pnas.2532833123",
+        "Cautela editorial",
+        "19 papers de alto nível",
+        "35 conceitos",
+        "6 grupos temáticos"
+      ],
+      "has_19_papers": true,
+      "has_35_conceitos": true,
+      "has_point_4": true,
+      "has_point_5": true,
+      "has_point_6": true,
+      "has_f_arvores": true,
+      "has_g_fluvial": true,
+      "footer_19_pubs": true,
+      "chart_timeline_attached": true,
+      "chart_tier_attached": true,
+      "horizontal_overflow": false,
+      "concept_cards": 35,
+      "expected_35": true
+    }
+  }
+]

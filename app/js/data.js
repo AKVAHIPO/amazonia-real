@@ -11,6 +11,7 @@ window.AMAZONIA_DATA = {
       data: "2026-04",
       manchete: "Amazônia está longe da 'savanização'",
       imagem: "images/seed-estadao-2026-04-26.jpg",
+      url: "https://www.estadao.com.br/opiniao/amazonia-esta-longe-da-savanizacao/",
       legenda: "A matéria do Estadão (semente desta análise) interpreta o paper PNAS de forma editorialmente enviesada. Reabrimos os achados originais à luz de Nature, Science, AGU e Biogeosciences."
     },
     paper_central: {

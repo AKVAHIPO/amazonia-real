@@ -50,7 +50,7 @@
           </div>
         </div>
         <ul class="sources" aria-label="Fontes de alto nível">
-          ${c.fontes.map(f => `<li><a href="${encodeAttr(f.url)}" target="_blank" rel="noopener"><span class="t">${escape(f.tier)}</span>${escape(f.titulo)}</a></li>`).join('')}
+          ${c.fontes.map(f => `<li><a href="${encodeAttr(f.url)}" target="_blank" rel="noopener noreferrer" aria-label="Fonte ${escape(f.tier)}: ${escape(f.titulo)} (abre em nova aba)"><span class="t">${escape(f.tier)}</span>${escape(f.titulo)}</a></li>`).join('')}
         </ul>
       `;
       list.appendChild(div);

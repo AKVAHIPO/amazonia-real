@@ -1,0 +1,274 @@
+[
+  {
+    "device": "iphone-12",
+    "orientation": "portrait",
+    "viewport": {
+      "w": 390,
+      "h": 844
+    },
+    "errors": [],
+    "checks": {
+      "charts_section_count": 1,
+      "chart_imgs": 2,
+      "img1_size": {
+        "x": 18,
+        "y": 1228.75,
+        "width": 354,
+        "height": 178.859375
+      },
+      "img2_size": {
+        "x": 18,
+        "y": 1480.796875,
+        "width": 354,
+        "height": 181.171875
+      },
+      "img1_visible": true,
+      "img2_visible": true,
+      "img1_fits_viewport": true,
+      "img2_fits_viewport": true,
+      "img1_natural_width": 2460,
+      "img2_natural_width": 2460,
+      "img1_loaded": true,
+      "img2_loaded": true,
+      "horizontal_overflow": false
+    }
+  },
+  {
+    "device": "iphone-12",
+    "orientation": "landscape",
+    "viewport": {
+      "w": 844,
+      "h": 390
+    },
+    "errors": [],
+    "checks": {
+      "charts_section_count": 1,
+      "chart_imgs": 2,
+      "img1_size": {
+        "x": 18,
+        "y": 1109.625,
+        "width": 808,
+        "height": 408.265625
+      },
+      "img2_size": {
+        "x": 18,
+        "y": 1570.484375,
+        "width": 808,
+        "height": 413.515625
+      },
+      "img1_visible": true,
+      "img2_visible": true,
+      "img1_fits_viewport": true,
+      "img2_fits_viewport": true,
+      "img1_natural_width": 2460,
+      "img2_natural_width": 2460,
+      "img1_loaded": true,
+      "img2_loaded": true,
+      "horizontal_overflow": false
+    }
+  },
+  {
+    "device": "iphone-se",
+    "orientation": "portrait",
+    "viewport": {
+      "w": 375,
+      "h": 667
+    },
+    "errors": [],
+    "checks": {
+      "charts_section_count": 1,
+      "chart_imgs": 2,
+      "img1_size": {
+        "x": 18,
+        "y": 1282.96875,
+        "width": 339,
+        "height": 171.28125
+      },
+      "img2_size": {
+        "x": 18,
+        "y": 1527.4375,
+        "width": 339,
+        "height": 173.484375
+      },
+      "img1_visible": true,
+      "img2_visible": true,
+      "img1_fits_viewport": true,
+      "img2_fits_viewport": true,
+      "img1_natural_width": 2460,
+      "img2_natural_width": 2460,
+      "img1_loaded": true,
+      "img2_loaded": true,
+      "horizontal_overflow": false
+    }
+  },
+  {
+    "device": "iphone-se",
+    "orientation": "landscape",
+    "viewport": {
+      "w": 667,
+      "h": 375
+    },
+    "errors": [],
+    "checks": {
+      "charts_section_count": 1,
+      "chart_imgs": 2,
+      "img1_size": {
+        "x": 18,
+        "y": 1192.8125,
+        "width": 631,
+        "height": 318.828125
+      },
+      "img2_size": {
+        "x": 18,
+        "y": 1564.234375,
+        "width": 631,
+        "height": 322.9375
+      },
+      "img1_visible": true,
+      "img2_visible": true,
+      "img1_fits_viewport": true,
+      "img2_fits_viewport": true,
+      "img1_natural_width": 2460,
+      "img2_natural_width": 2460,
+      "img1_loaded": true,
+      "img2_loaded": true,
+      "horizontal_overflow": false
+    }
+  },
+  {
+    "device": "pixel-5",
+    "orientation": "portrait",
+    "viewport": {
+      "w": 393,
+      "h": 851
+    },
+    "errors": [],
+    "checks": {
+      "charts_section_count": 1,
+      "chart_imgs": 2,
+      "img1_size": {
+        "x": 18,
+        "y": 1230.640625,
+        "width": 357,
+        "height": 180.375
+      },
+      "img2_size": {
+        "x": 18,
+        "y": 1484.203125,
+        "width": 357,
+        "height": 182.703125
+      },
+      "img1_visible": true,
+      "img2_visible": true,
+      "img1_fits_viewport": true,
+      "img2_fits_viewport": true,
+      "img1_natural_width": 2460,
+      "img2_natural_width": 2460,
+      "img1_loaded": true,
+      "img2_loaded": true,
+      "horizontal_overflow": false
+    }
+  },
+  {
+    "device": "pixel-5",
+    "orientation": "landscape",
+    "viewport": {
+      "w": 851,
+      "h": 393
+    },
+    "errors": [],
+    "checks": {
+      "charts_section_count": 1,
+      "chart_imgs": 2,
+      "img1_size": {
+        "x": 18,
+        "y": 1114.34375,
+        "width": 815,
+        "height": 411.796875
+      },
+      "img2_size": {
+        "x": 18,
+        "y": 1578.734375,
+        "width": 815,
+        "height": 417.09375
+      },
+      "img1_visible": true,
+      "img2_visible": true,
+      "img1_fits_viewport": true,
+      "img2_fits_viewport": true,
+      "img1_natural_width": 2460,
+      "img2_natural_width": 2460,
+      "img1_loaded": true,
+      "img2_loaded": true,
+      "horizontal_overflow": false
+    }
+  },
+  {
+    "device": "ipad-air",
+    "orientation": "portrait",
+    "viewport": {
+      "w": 820,
+      "h": 1180
+    },
+    "errors": [],
+    "checks": {
+      "charts_section_count": 1,
+      "chart_imgs": 2,
+      "img1_size": {
+        "x": 18,
+        "y": 1118.28125,
+        "width": 784,
+        "height": 396.140625
+      },
+      "img2_size": {
+        "x": 18,
+        "y": 1567.015625,
+        "width": 784,
+        "height": 401.234375
+      },
+      "img1_visible": true,
+      "img2_visible": true,
+      "img1_fits_viewport": true,
+      "img2_fits_viewport": true,
+      "img1_natural_width": 2460,
+      "img2_natural_width": 2460,
+      "img1_loaded": true,
+      "img2_loaded": true,
+      "horizontal_overflow": false
+    }
+  },
+  {
+    "device": "ipad-air",
+    "orientation": "landscape",
+    "viewport": {
+      "w": 1180,
+      "h": 820
+    },
+    "errors": [],
+    "checks": {
+      "charts_section_count": 1,
+      "chart_imgs": 2,
+      "img1_size": {
+        "x": 58,
+        "y": 665.453125,
+        "width": 1064,
+        "height": 537.609375
+      },
+      "img2_size": {
+        "x": 58,
+        "y": 1255.65625,
+        "width": 1064,
+        "height": 544.53125
+      },
+      "img1_visible": true,
+      "img2_visible": true,
+      "img1_fits_viewport": true,
+      "img2_fits_viewport": true,
+      "img1_natural_width": 2460,
+      "img2_natural_width": 2460,
+      "img1_loaded": true,
+      "img2_loaded": true,
+      "horizontal_overflow": false
+    }
+  }
+]
